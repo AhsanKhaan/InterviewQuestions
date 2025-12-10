@@ -1,0 +1,24 @@
+A backpack and a water bottle together weigh 7 kg. The water bottle weighs 2 kg less than the backpack. How much does each weigh?
+
+B + W = 7
+w=b-2
+B+ B - 2 = 7
+2B - 2 = 7
+B = 9/2
+B= 4.5
+
+W = B - 2
+W = 4.5 -2 
+W = 2.5
+
+
+If there are 10 equally spaced poles, and it takes 10 minutes to travel from the 1st pole to the 10th pole, how long does it take to go from the 1st pole to the 2nd pole?
+
+
+1.1 min
+
+
+|  | ------|
+|  | | | | | | | | |
+1  2 3 4 5 6 7 8 9 10
+
