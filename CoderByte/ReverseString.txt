@@ -1,0 +1,17 @@
+function FirstReverse(str) { 
+  let strArray = str.split(" ");
+  // code goes here  
+
+  return strArray.map((element)=>{
+    return reverseString(element)
+  }).reverse().join(' ');
+   
+
+}
+
+function reverseString(str){
+  return str.split('').reverse().join('');
+}
+   
+// keep this function call here 
+console.log(FirstReverse(readline()));
